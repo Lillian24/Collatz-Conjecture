@@ -12,7 +12,7 @@ This is a simple conjecture but this hasn't been solved by anyone in the world s
 This problem is simply stated, easily understood, and all too inviting. Just pick a number, any number: If the number is even, cut it in half; if it’s odd, triple it and add 1. Take that new number and repeat the process, again and again. If you keep this up, you’ll eventually get stuck in a loop(...4,2,1). At least, that’s what we think will happen. Many might mistake the pattern to be of a fixed set for this infamous problem _3x+1_, Although it is not.
 
 Alex Kontorovich and Yakov Sinai had found out that there was an arbitary pattern to this problem. They researched, graphed and analyzed it.
-Let us consider a sequence of large numer chosen at random, Say for instance(162,227,794). The graph peaks and drop so low that you cant really see what is happening at that scale. But if we took a log, we'd be able to find wiggle graph with a downward trend. And if we removed the linear trend, in the end we'd be able to get a _Geometric Brownian Motion_.
+Say, let us consider a sequence of large numer chosen at random, for instance(162,227,794). The graph peaks and drop so low that you cant really see what is happening at that scale. But if we took a log, we'd be able to find wiggle graph with a downward trend. And if we removed the linear trend, in the end we'd be able to get a _Geometric Brownian Motion_.
 
 ---
 ![Collatz_2880x1620_Lede](https://user-images.githubusercontent.com/79180908/231666072-3e87b0f2-aa2f-4d53-9f2d-372308b3767e.jpg)
